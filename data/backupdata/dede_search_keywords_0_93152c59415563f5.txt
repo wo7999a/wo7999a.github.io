@@ -1,0 +1,1 @@
+INSERT INTO `dede_search_keywords` VALUES('1','排针','排针','1','8','1471165266','0','0');
